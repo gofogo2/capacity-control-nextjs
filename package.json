@@ -1,8 +1,12 @@
 {
   "dependencies": {
+    "cross-fetch": "^4.0.0",
+    "eventsource": "^2.0.2",
     "next": "^14.1.0",
+    "pocketbase": "^0.21.1",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "react-native-sse": "^1.2.0"
   },
   "name": "capacity-control-nextjs",
   "description": "nextjs환경에서 사용자를 카운팅하는 프로젝트",
